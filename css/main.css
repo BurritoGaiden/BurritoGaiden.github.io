@@ -732,6 +732,9 @@ iframe{
     .content{
         margin-top:25px;
     }
+	.long-header{
+		width:300px !important;
+	}
 }
 
 

@@ -65,7 +65,7 @@
 
 /*  General CSS*/
 body{
-    background: #f3f3f3;
+    background: #fff;
 }
 
 .wrapper{
@@ -430,6 +430,20 @@ iframe{
     display: block;
     position: relative;
     background: url('../img/BloodAlloyCover.png') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+.topiw{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/iwaicover.png') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

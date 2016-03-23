@@ -912,3 +912,12 @@ background-color: rgb(246, 246, 246)
 {
     margin:0 5px;
 }
+
+.carousel * {
+    box-shadow: none !important;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image:none !important;
+    filter:none !important;
+}

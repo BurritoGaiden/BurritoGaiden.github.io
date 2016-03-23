@@ -457,7 +457,7 @@ iframe{
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('../img/BloodAlloyCover.png') no-repeat;
+    background: url('../img/briefcover.png') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

@@ -276,7 +276,7 @@ h5, h6          { font-weight: bolder }
     box-sizing: border-box;
     position: relative;
     z-index: 55;
-    background: #313131;
+    background: #494949;
     clear: both;
 }
 
@@ -310,7 +310,7 @@ div > h1 > p{
     height: 100%;
     top: 0;
     left: 0;
-    background: #313131;
+    background: #fff;
     opacity: 0;
 }
 

@@ -13,7 +13,7 @@ p {
 <body>
 
 <p id="demo"></p>
-
+<h1>"Hey that next podcast happens in:"<h1>
 <script>
 // Set the date we're counting down to
 var countDownDate = new Date("Sep 5, 2018 15:37:25").getTime();
@@ -34,7 +34,7 @@ var x = setInterval(function() {
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
     // Output the result in an element with id="demo"
-    <p>"Hey that next podcast happens in:"<p>
+    
     document.getElementById("demo").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
     

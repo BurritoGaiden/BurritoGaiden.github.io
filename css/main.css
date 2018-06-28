@@ -409,6 +409,21 @@ iframe{
     background-position: 50% 50%;
 }
 
+.topht{
+    width: 100%;
+    height: 350px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/HatInTimeCover.png') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
+
 .topLoA{
     width: 100%;
     height: 350px;

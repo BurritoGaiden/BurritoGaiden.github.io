@@ -395,6 +395,20 @@ iframe{
     background-position: 50% 50%;
 }
 
+.topr2{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    display: block;
+    position: relative;
+    background: url('../img/rooftops2cover.png') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
+}
+
 .topge{
     width: 100%;
     height: 150px;
